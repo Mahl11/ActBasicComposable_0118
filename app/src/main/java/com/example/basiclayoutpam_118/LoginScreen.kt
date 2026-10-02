@@ -153,3 +153,5 @@ fun LoginScreenPreview() {
 // UI: Penataan logo resmi Universitas Muhammadiyah Yogyakarta
 
 // Style: Kapsul Surface untuk Nama Ilham Saputra dan NIM 20240140118
+
+// UI: Avatar foto profil dengan border melingkar putih
