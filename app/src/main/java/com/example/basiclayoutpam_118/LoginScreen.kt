@@ -85,7 +85,7 @@ fun LoginScreen(modifier: Modifier = Modifier) {
 
             Spacer(modifier = Modifier.height(14.dp))
 
-            // 3. Kapsul Bersih Ramping Khusus Nama & NIM (Anti Kebanting!)
+            // 3. Kapsul Bersih Ramping Khusus Nama & NIM
             Surface(
                 shape = RoundedCornerShape(20.dp),
                 color = Color.White.copy(alpha = 0.92f), // Putih susu elegan
