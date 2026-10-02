@@ -37,3 +37,5 @@ fun TampilanLoginPreview() {
 }
 
 // Navigation: Integrasi pemanggilan LoginScreen ke dalam Scaffold
+
+// Preview: Pratinjau interaktif layout dengan System UI smartphone
