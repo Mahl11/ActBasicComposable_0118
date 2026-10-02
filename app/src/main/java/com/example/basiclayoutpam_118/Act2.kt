@@ -171,3 +171,5 @@ fun TataletakBoxColumnRow(modifier: Modifier = Modifier) {
 // Dokumentasi: TataletakColumnRow mengombinasikan induk Column dan anak Row
 
 // Dokumentasi: TataletakRowColumn mengombinasikan baris dengan dua kolom
+
+// Dokumentasi: TataletakBoxColumnRow menyatukan Box, gambar, dan cursive typography
