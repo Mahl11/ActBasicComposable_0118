@@ -169,3 +169,5 @@ fun TataletakBoxColumnRow(modifier: Modifier = Modifier) {
 // Dokumentasi: TataletakBox menumpuk widget di tengah layar
 
 // Dokumentasi: TataletakColumnRow mengombinasikan induk Column dan anak Row
+
+// Dokumentasi: TataletakRowColumn mengombinasikan baris dengan dua kolom
