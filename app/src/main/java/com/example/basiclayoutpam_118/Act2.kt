@@ -25,6 +25,7 @@ import androidx.compose.ui.unit.sp
 
 // Menata elemen secara vertikal dari atas ke bawah
 @Composable
+// Menata elemen secara horizontal sejajar ke samping
 fun TataletakColumn(modifier: Modifier = Modifier) {
     Column(modifier = modifier.padding(top = 20.dp, start = 20.dp, end = 20.dp)) {
         Text(text = "Komponen1")
@@ -162,3 +163,5 @@ fun TataletakBoxColumnRow(modifier: Modifier = Modifier) {
         }
     }
 }
+
+// Dokumentasi: TataletakRow mengatur distribusi elemen secara horizontal
