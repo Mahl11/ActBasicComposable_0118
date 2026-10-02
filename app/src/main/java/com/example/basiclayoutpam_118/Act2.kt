@@ -165,3 +165,5 @@ fun TataletakBoxColumnRow(modifier: Modifier = Modifier) {
 }
 
 // Dokumentasi: TataletakRow mengatur distribusi elemen secara horizontal
+
+// Dokumentasi: TataletakBox menumpuk widget di tengah layar
