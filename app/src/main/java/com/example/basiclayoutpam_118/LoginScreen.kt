@@ -149,3 +149,5 @@ fun LoginScreenPreview() {
 }
 
 // UI: Pengaturan tipografi judul halaman login
+
+// UI: Penataan logo resmi Universitas Muhammadiyah Yogyakarta
